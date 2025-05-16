@@ -1,2 +1,2 @@
 # Perplexity-25
-Perplexity Hackaton 2025
+Perplexity Hackathon 2025
